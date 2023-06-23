@@ -1,4 +1,4 @@
-module github.com/Natali-Skv/technopark_db_forum
+module github.com/BazaleevFedor/technopark_db_forum
 
 go 1.17
 
