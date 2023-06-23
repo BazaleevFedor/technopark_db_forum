@@ -1,7 +1,7 @@
 package user
 
 import (
-	"github.com/Natali-Skv/technopark_db_forum/internal/models"
+	"github.com/BazaleevFedor/technopark_db_forum/internal/models"
 )
 
 type Repo interface {
