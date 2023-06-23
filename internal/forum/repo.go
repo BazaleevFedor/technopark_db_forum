@@ -1,6 +1,6 @@
 package forum
 
-import "github.com/Natali-Skv/technopark_db_forum/internal/models"
+import "github.com/BazaleevFedor/technopark_db_forum/internal/models"
 
 type Repo interface {
 	Create(forum *models.Forum) (*models.Forum, error)
