@@ -12,11 +12,12 @@ require (
 
 require (
 	github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 // indirect
-	github.com/PuerkitoBio/purell v1.1.1 // indirect
+	github.com/PuerkitoBio/purell v1.2.0 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/bozaro/golorem v0.0.0-20170501165920-50e5b610280b // indirect
+	github.com/cockroachdb/apd v1.1.0 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/analysis v0.21.4 // indirect
@@ -28,10 +29,13 @@ require (
 	github.com/go-openapi/spec v0.20.9 // indirect
 	github.com/go-openapi/swag v0.22.4 // indirect
 	github.com/go-openapi/validate v0.22.1 // indirect
-	github.com/go-stack/stack v1.8.1 // indirect
+	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/jackc/fake v0.0.0-20150926172116-812a484cc733 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/labstack/gommon v0.4.0 // indirect
+	github.com/lib/pq v1.10.9 // indirect
 	github.com/mailcourses/technopark-dbms-forum v0.3.1-0.20211122133419-7f25514dd32e // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
@@ -44,6 +48,8 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/philhofer/fwd v1.1.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/shopspring/decimal v1.3.1 // indirect
+	github.com/stretchr/testify v1.8.3 // indirect
 	github.com/tinylib/msgp v1.1.8 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.1 // indirect
